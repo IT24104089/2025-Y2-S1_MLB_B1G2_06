@@ -14,7 +14,7 @@ AI-powered heart disease prediction system using clinical data to assist in earl
 | IT Number  | Name                  | Preprocessing Technique        |
 |------------|-----------------------|--------------------------------|
 | IT24104090 | Disanayake B.R.S.     | Feature Engineering            |
-| IT24104049 | Hewa V.S.S.           | Handling Missing Values        |
+| IT24104049 | Hewa V.S.S.           | Class Balancing                |
 | IT24104102 | Amarakeerthi H.K.K.U  | Encoding Categorical Variables |
 | IT24104089 | Fernando K.D.P.S.     | Outlier Removal                | 
 | IT23384460 | Hettiarachchi H.A.D.S.| Feature Selection              |
